@@ -7,7 +7,7 @@
 annotate view ZC_ONLINE_SHOP_CN00
     with 
 {
-    @UI.facet: [{ id:    'Orders',
+    @UI.facet: [{ id:    'Order',
     purpose: #STANDARD,
     type: #IDENTIFICATION_REFERENCE,
     label: 'Order',
